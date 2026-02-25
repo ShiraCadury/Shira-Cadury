@@ -20,4 +20,4 @@
 ---
 
 ### 📫 Connect with me
-Currently focusing on my academic studies and developing my technical skills.
+Feel free to explore my repositories! I'm always open to discussing algorithms and software development.
