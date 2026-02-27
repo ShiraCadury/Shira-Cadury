@@ -1,11 +1,8 @@
 # Hi, I'm Shira! 👋
 
-### 🎓 Software Engineering Student @ Azrieli College
-2nd-year student focused on software development.
-
----
-
 ### 🚀 About Me
+* 🎓 **Software Engineering Student @ Azrieli College**
+* 📚 **2nd-year student** focused on software development.
 * 💻 **Interested in:** Algorithm efficiency and logical problem-solving.
 * 🛠️ **Current Focus:** Developing clean, efficient code while building my technical foundation.
 
